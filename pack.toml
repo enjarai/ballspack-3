@@ -1,0 +1,13 @@
+name = "Ballspack 3: Interdimensional Roadtrip"
+author = "enjarai"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "57b92074a1d6c856a10d11c44a5e0a46e94bf2a746cbe8a07565922e89eb3b52"
+
+[versions]
+fabric = "0.15.1"
+minecraft = "1.20.1"
