@@ -21,6 +21,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "ab0441d775e3b05322054b5f2b729cab0e35ed24df194677c83783c0138d70b6"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "542d5d1db4e45805a6f52be19c7ec664d7d2c34c2eed9fd53b42bc614815decb"
 metafile = true
 
 [[files]]
@@ -172,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/minitardis.pw.toml"
-hash = "6bfb96f107c0cda3951ca19aa9090761d41dc93b1ac3022ebdfb07d812438b62"
+hash = "06a9d31170c0170cafb5fa8ee80b137ad312409ba80545a2ca49ed7876e3b8ca"
 metafile = true
 
 [[files]]
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
+hash = "673006493debf44025fb363fd2463f949d0b3ffa10f4b9147e28cd08ba6848e9"
 metafile = true
 
 [[files]]
