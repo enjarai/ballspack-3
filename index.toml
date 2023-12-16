@@ -211,6 +211,11 @@ hash = "9de947d26634c96163a261bdc4acefa006bf58a65652ed52960975930fc5c24a"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
+metafile = true
+
+[[files]]
 file = "mods/omnihopper.pw.toml"
 hash = "422cf9b28e11f5037e6341acdcef71087f56b6c3bae5149910c8e4671b6f1143"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
