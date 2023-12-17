@@ -96,6 +96,11 @@ hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
+file = "mods/creeper-firework.pw.toml"
+hash = "3a4ec901844634526f3afc85390e0482f792b348df1b1059c30ac1a26a434f79"
+metafile = true
+
+[[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "af9263e844d38c6e46495f2ed42a8e0a52b16784d9b64601b010c0eb58158ff9"
 metafile = true
