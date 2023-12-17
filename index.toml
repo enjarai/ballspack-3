@@ -251,6 +251,11 @@ hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "50a484d5e0b69d91c50a6e71e973879f58b209c0a47a20588b736b8712f68201"
+metafile = true
+
+[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "a6b16a548b0883eb8c0bde6a05e2c5a6313fcfc8ce32df158a71a2efb2abd378"
 metafile = true
