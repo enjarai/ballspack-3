@@ -1,7 +1,7 @@
 name = "moreiotas"
-filename = "moreiotas-fabric-1.20.1-0.1.1-janked.jar"
+filename = "moreiotas-fabric-1.20.1-0.1.0-3+janked.1.jar"
 
 [download]
-url = "https://maven.enjarai.dev/mirrors/ram/talia/moreiotas/moreiotas-fabric-1.20.1/0.1.1-janked/moreiotas-fabric-1.20.1-0.1.1-janked.jar"
+url = "https://maven.enjarai.dev/mirrors/ram/talia/moreiotas/moreiotas-fabric-1.20.1/0.1.0-3+janked.1/moreiotas-fabric-1.20.1-0.1.0-3+janked.1.jar"
 hash-format = "sha256"
-hash = "4d60aa27a1b1ec69b61eb68158a1589fb7b758ed8877d783c441a209ba8589c0"
+hash = "aae2d64e2cabab78888b57db33c92bb602ffd20ab030c23c08a36297600efc7a"
