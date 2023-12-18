@@ -16,6 +16,11 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
+file = "mods/arcane-repository.pw.toml"
+hash = "04518934e83ff5696aec395436bca2bad047eee61170f808dd9dab203c70e86a"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -192,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/minitardis.pw.toml"
-hash = "7d323c9618f6558882d9d5977480bd9c3b712442362e30abe9784e5780ecb873"
+hash = "069d60e648300d51a64e967c0c89442501a3ee82cf58d50b88bce9d1173048fa"
 metafile = true
 
 [[files]]
