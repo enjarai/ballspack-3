@@ -161,6 +161,11 @@ hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "ed4f9111816e20f749d06fe714ca5b0841fa0e884e1761a8df66ac20bd37b8ba"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
@@ -172,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "f796a5ad206fa0bcf9ebe666a3a1b452ec19de9e5cf0b6a62044657412ce0fbb"
+hash = "e268bc5b1174fdfa415ab9fb310a2bd0c2a3eaae43241e60859e50a8ac479df9"
 metafile = true
 
 [[files]]
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "faefe3ad13a2d7315292919de7baca1abaac6f74be7cf3dc57a0deea31878cf5"
+metafile = true
+
+[[files]]
+file = "mods/ok-boomer.pw.toml"
+hash = "d7eff753b1192e76f4f1a1cd4b3e9cfe00835d96c4de33cbeee00bcba4252f19"
 metafile = true
 
 [[files]]
@@ -321,6 +331,11 @@ hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "aaae48129edb1d2db19450fbc18097748befb273e20c443f53668cc4188a72e7"
 metafile = true
@@ -343,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
