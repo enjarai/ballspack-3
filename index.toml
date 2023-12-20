@@ -11,6 +11,11 @@ hash = "f17d0fbc07f5a84ecd33c3f98164d508f23be64f55a44b8771bfe88718187c5d"
 metafile = true
 
 [[files]]
+file = "mods/amethystgravity.pw.toml"
+hash = "6f5008fcf6081dbe04fb386e92ee27faadd50e6dfc052c595622843d01b242b0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/minitardis.pw.toml"
-hash = "8a38e2f3e5af010f409385f7f8d83e9b2a7de85b831f791ed19a3e50f9e4154f"
+hash = "a09cf1772c9600f6269d24db17ec52010a526c58fdc48884d7fc35a2d16d3929"
 metafile = true
 
 [[files]]
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "930b34fba49b8fa535d0bd23bcce6329b45ffde876809ba144eefe8489d76938"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]

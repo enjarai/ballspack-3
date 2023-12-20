@@ -1,0 +1,7 @@
+name = "amethystgravity"
+filename = "amethyst-gravity-2.0.0+1.20.1.jar"
+
+[download]
+url = "https://maven.enjarai.dev/releases/dev/enjarai/amethyst-gravity/2.0.0+1.20.1/amethyst-gravity-2.0.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "940fde6fb605bf84328f3be4f5a3cbb4d3e16e28712b9a24c48beffd5896e2c4"
