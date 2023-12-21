@@ -4,4 +4,4 @@ filename = "hexcasting-fabric-1.20.1-0.11.1-7+janked.4.jar"
 [download]
 url = "https://maven.enjarai.dev/mirrors/at/petra-k/hexcasting/hexcasting-fabric-1.20.1/0.11.1-7+janked.4/hexcasting-fabric-1.20.1-0.11.1-7+janked.4.jar"
 hash-format = "sha256"
-hash = "632eb9dd6d6687a05bb03fb3a904f2dd709311616db5606fd59cf855b454b4ab"
+hash = "7b299f81a328658d7da3a2a6faa1cf78d47829915cfdced12eebcbc50f0033b3"
