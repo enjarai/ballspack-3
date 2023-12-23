@@ -131,13 +131,13 @@ hash = "a3d67ed45a2b4cde25d7e3718ce1fa71297df6f23950b0a12442499b089c59a1"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+file = "mods/estrogen.pw.toml"
+hash = "0e8813a1aa7130ed082ff8753ed2c64200fa4246fde4ed1522bc76828dfadd91"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "0e8813a1aa7130ed082ff8753ed2c64200fa4246fde4ed1522bc76828dfadd91"
+file = "mods/exposure.pw.toml"
+hash = "9c08037dd9f5457ddd0dcef24305f44a4cd908713203c574ae67dc44af536e6f"
 metafile = true
 
 [[files]]
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -186,6 +191,11 @@ hash = "e268bc5b1174fdfa415ab9fb310a2bd0c2a3eaae43241e60859e50a8ac479df9"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "98ed1aac14903965348411be3dd5380680cb4a9917f0497f955f1e51100d4b89"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -206,8 +216,13 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/minitardis-portals.pw.toml"
+hash = "2d355673e7121f9f527a28a7296c4e4c0206ebba40ae2a33e7ea1d646881deff"
+metafile = true
+
+[[files]]
 file = "mods/minitardis.pw.toml"
-hash = "a09cf1772c9600f6269d24db17ec52010a526c58fdc48884d7fc35a2d16d3929"
+hash = "ebbeb0f2ab450cab12989cb1912566d2202025d32e334c42f03eaf7bc91e74d0"
 metafile = true
 
 [[files]]
