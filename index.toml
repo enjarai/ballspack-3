@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immersive_portals.json"
+hash = "30a9537d4de3afe24865e13c97628701401413415271ada639727ff5dfd9c876"
+
+[[files]]
 file = "mods/ages.pw.toml"
 hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
 metafile = true
