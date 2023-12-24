@@ -1,7 +1,7 @@
-name = "minitardis-portals"
-filename = "mini_tardis_portals-1.0.1.jar"
+name = "minitardis_portals"
+filename = "mini_tardis_portals-1.0.2.jar"
 
 [download]
-url = "https://maven.enjarai.dev/releases/dev/enjarai/mini_tardis_portals/1.0.1/mini_tardis_portals-1.0.1.jar"
+url = "https://maven.enjarai.dev/releases/dev/enjarai/mini_tardis_portals/1.0.2/mini_tardis_portals-1.0.2.jar"
 hash-format = "sha256"
-hash = "92ffb1671c61ed6d3a29a7ba7eddab013ab9ea907dde711f9bc0946f26889af1"
+hash = "0b420e3eb649674c9452fe6894ae64be3b1957151c94143032c95dbdc51afa5d"

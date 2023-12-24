@@ -231,12 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/minitardis-portals.pw.toml"
-hash = "2765db5869d6aa504b4aeaa71e55feca53fd12ac39f48bce53c6fd4c5163e636"
+hash = "6f99cb3979a49fec7c7ee8f8aa890961563211e2fc0a706f09340ea5d9cd61c2"
 metafile = true
 
 [[files]]
 file = "mods/minitardis.pw.toml"
-hash = "9da9437bfd0fd74a648db421377fd093f8baf8b716ba36aec535f6f70fbbb1b4"
+hash = "78eb440feb9db458b7b4e5c41cd5f10942bfc3d6a2dd20047f556fcfe627926a"
 metafile = true
 
 [[files]]
