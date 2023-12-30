@@ -1,7 +1,7 @@
 name = "minitardis"
-filename = "mini_tardis-0.1.20-epic-gamer-edition+1.20.1.jar"
+filename = "mini_tardis-0.1.21-epic-gamer-edition+1.20.1.jar"
 
 [download]
-url = "https://maven.enjarai.dev/releases/dev/enjarai/minitardis/mini_tardis/0.1.20-epic-gamer-edition+1.20.1/mini_tardis-0.1.20-epic-gamer-edition+1.20.1.jar"
+url = "https://maven.enjarai.dev/releases/dev/enjarai/minitardis/mini_tardis/0.1.21-epic-gamer-edition+1.20.1/mini_tardis-0.1.21-epic-gamer-edition+1.20.1.jar"
 hash-format = "sha256"
-hash = "208de97471cde1b2bef380e5458275dfe81498826dc92d99a811ee80cd2b7193"
+hash = "425198ce8a4aadd12135764238a19030e38bbe5dca3d0f79aba4c115c163d566"
