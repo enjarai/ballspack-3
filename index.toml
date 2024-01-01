@@ -5,6 +5,26 @@ file = "config/immersive_portals.json"
 hash = "30a9537d4de3afe24865e13c97628701401413415271ada639727ff5dfd9c876"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "a47a72dfb4debbde2ea8e693e0990fa64261b18a97444cfd66b06e95d173055d"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "606274a1a5e95501bb8e589920a781f745d7bb976ef0906f8c04217963e241b9"
+metafile = true
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "27bee2dec0693db30bc4a8981d1409d7075f1515ea379f70f3c897a76ec49970"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "4c30aece20eef15f09e0163db70b61deba5136d15c750e0592c101d3958bd8bc"
+metafile = true
+
+[[files]]
 file = "mods/ages.pw.toml"
 hash = "dffe4bf8e0d917ff0d789405a6c130f3ebc0c0fde74f340f5cd6444c2a5b41ec"
 metafile = true
@@ -65,6 +85,11 @@ hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "39c1c613510610ba17f1c40af55cbcf33cde14466f2f6ef9ab102fe67bf6cec5"
+metafile = true
+
+[[files]]
 file = "mods/cadmus.pw.toml"
 hash = "542d5d1db4e45805a6f52be19c7ec664d7d2c34c2eed9fd53b42bc614815decb"
 metafile = true
@@ -72,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/catwalks-llc.pw.toml"
+hash = "f01787a947f657874093ab067e4f00a0f94fb9e9660f7746675a5cdb40c18173"
 metafile = true
 
 [[files]]
@@ -97,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/cooldown-coordinator.pw.toml"
 hash = "842e17199861f6639ad0da2c3a2bac4874a7556d2cec00bd2d5f85289b749c15"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
@@ -180,6 +215,11 @@ hash = "280dbc9e9e90ad490a5f7544a80e7b498fb9b743ab2ce0d87d2d10dcfc8debf1"
 metafile = true
 
 [[files]]
+file = "mods/frog-petting.pw.toml"
+hash = "4063f7d36849c040bbb797a65819690273d247c61e662772393653ce6615ed81"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
@@ -217,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
@@ -300,6 +345,11 @@ hash = "43b1a56c118d6ca8ee7b9599a88711d1e9426ad565a26ec07d7384457edf97a6"
 metafile = true
 
 [[files]]
+file = "mods/pocket-tools.pw.toml"
+hash = "001a2a5d5e669a38321af0ad963c84d6adccc84d173fcc23130ca76a3e3f44a5"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "50a484d5e0b69d91c50a6e71e973879f58b209c0a47a20588b736b8712f68201"
 metafile = true
@@ -325,6 +375,11 @@ hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "57d01e72025cda62fd692056f651cec99fdf34ca8874119dfd3e9d9d16f78195"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d8d167c69fa2b57d6ef71f1649da05ac7cbfbc9213b43aeb6e81ed9ffa49a114"
 metafile = true
@@ -337,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
+metafile = true
+
+[[files]]
+file = "mods/scarves.pw.toml"
+hash = "1edbb99891cf492f661aa7edf589d021ffdcb8e6d3c1a3698f24756b1ddc3ce9"
 metafile = true
 
 [[files]]
@@ -402,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "d3f43c1b4ceee76f41e0033884cf56a311d5150b99fb95187df4a4e85ac91041"
 metafile = true
 
 [[files]]
