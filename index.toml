@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/minitardis.pw.toml"
-hash = "1a6244dc2cc63ccbbcc0fd595ffd47e97bc5cdf0972c85809ecde9929bcbd0eb"
+hash = "f69de7b9dc195c4c77c0839952fd45149537fa3d04b20950efb3c3c0d0d16ff2"
 metafile = true
 
 [[files]]
